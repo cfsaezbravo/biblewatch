@@ -671,11 +671,21 @@ h3 {
   padding-bottom: 15px;
 }
 
+/* line 47 */
+.logo_banner{
+  max-width: 20%;
+}
+
+/* line 
+
 @media (max-width: 767px) {
   /* line 2, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_section_title.scss */
   .section_title h3 {
     font-size: 30px;
     line-height: 36px;
+  }
+  .logo_banner{
+    max-width: 11%;
   }
 }
 
@@ -1001,6 +1011,18 @@ h3 {
 /* line 116, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn {
   margin-left: 30px;
+  display: inline-flex;
+}
+
+/* line 116, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
+.header-area .main-header-area .btn-language {
+  margin-left: 30px;
+  display: inline-flex;
+  color: #ffffff;
+}
+
+.header-area .main-header-area .btn-language a{
+  color: #ffffff;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
