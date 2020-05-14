@@ -24,6 +24,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
   font-style: normal;
+  background-color: #F2F2F2;
 }
 
 /* line 12, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/theme-default.scss */
@@ -676,7 +677,80 @@ h3 {
   max-width: 20%;
 }
 
-/* line 
+.telefono1{
+  width: 100%;
+}
+
+.img-versiculo{
+  max-width: 100%;
+}
+
+.linea-separacion{
+  height: 5px;
+  width: 100%;
+  background-color: #00AFEF;
+}
+
+.seccion-visualizacion{
+  background-color: #DDE6EE;
+  padding: 0 0 6%;
+}
+
+.subtitulo-visualizacion{
+  font-size: 20px;
+}
+
+.texto-visualizacion{
+  padding-top: 30%;
+}
+
+.texto-visualizacion h3{
+  font-size: 60px;
+  color: #404040;
+}
+
+.texto-visualizacion p{
+  color: #000000;
+  margin-top: 3%;
+}
+.container-opciones{
+  padding: 6% 0 3% 0;
+}
+
+.container-opciones h3{
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 7%;
+  color: #404040;
+}
+
+.container-opciones .img-telefono-opciones{
+  max-width: 80%;
+}
+.container-opciones .img-opciones{
+  max-width: 100%;
+}
+
+.container-opciones .lista-opciones{
+  padding: 8%;
+}
+
+.container-programacion{
+  padding-top: 5%;
+}
+
+.container-programacion .img-programacion{
+  max-width: 100%;
+}
+
+.container-programacion h3{
+  font-size: 60px;
+  color: #404040;
+}
+
+.img-tres{
+  max-width: 100%;
+}
 
 @media (max-width: 767px) {
   /* line 2, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_section_title.scss */
@@ -3431,7 +3505,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area {
-  padding: 168px 0 60px 0;
+  padding: 168px 0 168px 0;
 }
 
 @media (max-width: 767px) {
