@@ -3537,7 +3537,7 @@ h3 {
 /* line 14, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area .single_service .thumb {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #15B4F5;
+  background: #2C2C2C;
   /* Old browsers 
   background: -moz-linear-gradient(left, #0181f5 0%, #5db2ff 100%);
   /* FF3.6-15 
@@ -3551,7 +3551,7 @@ h3 {
   height: 110px;
   text-align: center;
   line-height: 110px;
-  border-radius: 20px;
+  border-radius: 55px;
   margin: 0 auto 30px auto;
 }
 
