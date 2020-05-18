@@ -692,8 +692,10 @@ h3 {
 }
 
 .seccion-visualizacion{
-  background-color: #DDE6EE;
-  padding: 0 0 6%;
+  background-image: url(../img/fondo-bg.png);
+  background-size: cover;
+  background-position: center;
+  padding: 0 0 19%;
 }
 
 .subtitulo-visualizacion{
@@ -3535,12 +3537,12 @@ h3 {
 /* line 14, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area .single_service .thumb {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #0181f5;
-  /* Old browsers */
+  background: #15B4F5;
+  /* Old browsers 
   background: -moz-linear-gradient(left, #0181f5 0%, #5db2ff 100%);
-  /* FF3.6-15 */
+  /* FF3.6-15 
   background: -webkit-linear-gradient(left, #0181f5 0%, #5db2ff 100%);
-  /* Chrome10-25,Safari5.1-6 */
+  /* Chrome10-25,Safari5.1-6 
   background: linear-gradient(to right, #0181f5 0%, #5db2ff 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0181f5', endColorstr='#5db2ff',GradientType=1 );
